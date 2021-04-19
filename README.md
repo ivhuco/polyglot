@@ -2,7 +2,7 @@
 This API provides words to learn several languages; you can add, edit and get words. 
 
 ## About app 
-This API was building using flask and Postgres. In order to create the DB was used Docker compose if we need to increase the services of the API. The app has four main functions (GET, POST, DELETE, PATCH).
+This API uses flask and Postgres. To create the DB, Docker. The app has four main functions (GET, POST, DELETE, PATCH).
 
 ## App Installation 
 1. docker-compose up --build -d
